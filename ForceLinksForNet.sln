@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceLinksForNet", "ForceLinksForNet\ForceLinksForNet.csproj", "{14C63105-CCE1-4DB8-A321-806DC36914EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceLinksForNet.UnitTests", "ForceLinksForNet.UnitTests\ForceLinksForNet.UnitTests.csproj", "{0ECD8E4B-B941-405C-99F6-E51D836D5743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceLinksForNet.FunctionalTests", "ForceLinksForNet.FunctionalTests\ForceLinksForNet.FunctionalTests.csproj", "{2A4EE746-F88E-4205-877D-09A978A87589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C63105-CCE1-4DB8-A321-806DC36914EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C63105-CCE1-4DB8-A321-806DC36914EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C63105-CCE1-4DB8-A321-806DC36914EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C63105-CCE1-4DB8-A321-806DC36914EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECD8E4B-B941-405C-99F6-E51D836D5743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECD8E4B-B941-405C-99F6-E51D836D5743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECD8E4B-B941-405C-99F6-E51D836D5743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECD8E4B-B941-405C-99F6-E51D836D5743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4EE746-F88E-4205-877D-09A978A87589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4EE746-F88E-4205-877D-09A978A87589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4EE746-F88E-4205-877D-09A978A87589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4EE746-F88E-4205-877D-09A978A87589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
